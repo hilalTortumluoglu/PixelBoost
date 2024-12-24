@@ -76,9 +76,9 @@ You can find pre-trained models [here](https://github.com/opencv/opencv_contrib/
 
 ## Screenshots 📸
 
-| Original Image          | Upscaled Image          |
+| Page 1         | Page2          |
 |--------------------------|--------------------------|
-| ![Original](example_org.jpg) | ![Upscaled](example_upscaled.jpg) |
+| ![page1](interfacePage1.jpg) | ![page2](interfacePage2.jpg) |
 
 ---
 
